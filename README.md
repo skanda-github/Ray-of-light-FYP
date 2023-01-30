@@ -11,20 +11,4 @@ The purpose of this project is to provide an IoT based integrated assistance sys
 The main purpose of the device is to make the differently abled people, feel independent confident by seeing, hearing and talking for them
 The paper provides a Google API and Raspberry Pi based aid for the blind deaf and dumb people.
 
-
-## Hardware / System Overview
-![None](Images/1.png)
-
-## Model Overview
-
-1. Dumb Mode
-![None](Images/2.png)
-
-2. Blind Mode
-![None](Images/4.png)
-
-3. Deaf Mode
-![None](Images/8.png)
-
-
 ## Link - [Journal Online Link](https://www.irjmets.com/uploadedfiles/paper/issue_7_july_2022/27589/final/fin_irjmets1657509911.pdf)
